@@ -11,6 +11,6 @@ This application can read text file, count every letter occurrences in the text,
 
 Instruction:
 
-1. Change text in src/main/resources/input.txt
+1. Specify text in src/main/resources/input.txt
 2. Launch main method in the LetterCounter.java
 3. Check console for counted letters
