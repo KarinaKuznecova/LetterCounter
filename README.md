@@ -8,6 +8,7 @@ This application can read text file, count every letter occurrences in the text,
 * Text file location: src/main/resources/input.txt
 * Sample text with 3306 symbols included.
 * File name can be changed in the LetterCounter.java main method.
+* Unit tests location: src/test/java/LetterCounterTest.java
 
 Instruction:
 
