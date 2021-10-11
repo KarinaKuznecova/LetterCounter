@@ -1,4 +1,4 @@
-Letter counter application as a test task for BTA
+Letter counter application as a test task
 
 
 This application can read text file, count every letter occurrences in the text, then print results.
